@@ -8,7 +8,7 @@
 
 ### Site Link
 
-```http
+```
   https://tailwindcss.com/
   ```
 ### installation Link
