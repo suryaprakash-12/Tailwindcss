@@ -53,6 +53,7 @@ if you don't create a folder use this
 content: ["./**/*.{html,js}"],
 ```
 ### Add the Tailwind directives to your CSS:
+Create create a new css file and paste this cmd
 Add the __@tailwind__ directives for each of Tailwind’s layers to your main CSS file.
 ```http
 @tailwind base;
